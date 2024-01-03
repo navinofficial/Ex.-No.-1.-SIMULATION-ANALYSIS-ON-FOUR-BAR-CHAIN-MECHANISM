@@ -48,12 +48,11 @@
 
 
 ## Output:
-![Screenshot 2023-06-13 180202](https://github.com/Praveen0500/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/120218611/cb096986-1393-4e94-ba64-c58b0127ac43)
+![EMPD 1](https://github.com/navinofficial/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/151710204/82a04d7b-cf1b-499c-8fa2-3044b88a3ecd)
+![EMPD 1 1](https://github.com/navinofficial/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/151710204/12074a4d-c673-4e10-b4f9-935ea581c907)
 
-![Screenshot 2023-06-13 181556](https://github.com/Praveen0500/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/120218611/6239c882-85bf-47d2-a3ab-a4f524988940)
-
-### Name: Sri Varshan P
-### Register Number: 212222240104
+### Name:NAVINKUMAR V
+### Register Number: 212223230141
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
